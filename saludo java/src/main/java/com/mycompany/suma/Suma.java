@@ -12,6 +12,6 @@ package com.mycompany.suma;
 public class Suma {
 
     public static void main(String[] args) {
-        System.out.println("CODIGO EN JAVA!");
+        System.out.println("MODIFICA EL ARCHIVO!");
     }
 }
